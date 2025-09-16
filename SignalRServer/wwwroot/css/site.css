@@ -29,3 +29,20 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+.body-content {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.control-group {
+  padding-top: 50px;
+}
+
+label {
+  width: 100px;
+}
+
+#signalr-message-panel {
+  height: calc(100vh - 200px);
+}
