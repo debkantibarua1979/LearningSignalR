@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRServer", "SignalRServer\SignalRServer.csproj", "{E087DAB1-F07B-4D7E-9E47-5841E4A3FE44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5A35B84F-AD03-4A84-839B-840B5CC30DC9}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E087DAB1-F07B-4D7E-9E47-5841E4A3FE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E087DAB1-F07B-4D7E-9E47-5841E4A3FE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E087DAB1-F07B-4D7E-9E47-5841E4A3FE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E087DAB1-F07B-4D7E-9E47-5841E4A3FE44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

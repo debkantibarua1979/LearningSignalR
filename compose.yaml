@@ -1,0 +1,6 @@
+﻿services:
+  signalrserver:
+    image: signalrserver
+    build:
+      context: .
+      dockerfile: SignalRServer/Dockerfile
